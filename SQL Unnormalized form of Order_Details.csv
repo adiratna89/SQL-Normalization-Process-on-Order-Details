@@ -1,0 +1,4 @@
+OrderID;CustomerName;CustomerCity;CustomerPhone;Products;ProductSuppliers;Quantities
+003;"Aarav Patel";Mumbai;9876500001;Laptop,Mouse;TechStore,TechStore;1,2
+002;"Meera Joshi";Pune;9876500002;Laptop,Keyboard;TechStore,KeyMart;1,1
+003;"Rahul Nair";Nagpur;9876500003;Mouse,Monitor;TechStore,ScreenHub;1,3
